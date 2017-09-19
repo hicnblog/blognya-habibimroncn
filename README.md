@@ -1,2 +1,2 @@
-# blognya-habibimroncn
-Just simple blog from jekyll
+# Blog
+Simple blog from jekyll
