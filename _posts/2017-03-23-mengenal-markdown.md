@@ -2,10 +2,11 @@
 layout: post
 title: "Mengenal Markdown"
 description: "Markdown ialah sintaks ringan dan mudah digunakan untuk styling pada semua bentuk tulisan."
+img: markdown@2x.png
 tags: [web]
 ---
 
-{% include image.html path="documentation/markdown.png" path-detail="documentation/markdown@2x.png" alt="Mengenal Markdown" %}
+![Mengenal Markdown]({{site.baseurl}}/assets/img/markdown@2x.png)
 
 ## Apa itu **Markdown**
 

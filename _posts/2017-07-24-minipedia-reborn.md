@@ -2,10 +2,11 @@
 layout: post
 title: "Minipedia Reborn"
 description: "Minipedia Reborn ialah website yang digunakan untuk mencari ringkasan konten di wikipedia."
+img: mp@2x.PNG
 tags: [web]
 ---
 
-{% include image.html path="documentation/mp.PNG" path-detail="documentation/mp@2x.PNG" alt="Minipedia Reborn" %}
+![Minipedia Reborn]({{site.baseurl}}/assets/img/mp@2x.PNG)
 
 ## [Minipedia Reborn](http://www.bloghicn.ga/minipedia-reborn/){:target="_blank"}
 

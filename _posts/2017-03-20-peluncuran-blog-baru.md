@@ -2,10 +2,11 @@
 layout: post
 title: "Peluncuran blog baru bro"
 description: "bloghicn ialah blog yang dibuat dengan sangat simple alias tanpa biaya sepeserpun. Hehehe."
+img: we-in-rest.jpg
 tags: [web]
 ---
 
-{% include image.html path="documentation/programmer.jpg" path-detail="documentation/programmer@2x.jpg" alt="bloghicn intro" %}
+![Peluncuran blog baru bro]({{site.baseurl}}/assets/img/we-in-rest.jpg)
 
 #### Fitur saat ini:
   - Ada dua tema (Hitam dan Putih).

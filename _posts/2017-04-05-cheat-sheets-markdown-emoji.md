@@ -2,8 +2,11 @@
 layout: post
 title: "Cheat sheets markdown emoji"
 description: "Kumpulan markdown emoji yang mudah untuk digunakan, tinggal copy paste :blush:"
+img: how-to-start.jpg
 tags: [web]
 ---
+
+![Cheat sheets markdown emoji]({{site.baseurl}}/assets/img/how-to-start.jpg)
 
 Markdown Emoji yang hanya tinggal di copy paste.
 {: #table_markdown_show}

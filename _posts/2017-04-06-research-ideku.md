@@ -2,8 +2,11 @@
 layout: post
 title: "Ini Ceritaku"
 description: "sebuah website yang digunakan untuk share cerita kamu :smile:"
+img: how-to-start.jpg
 tags: [web]
 ---
+
+![Ini Ceritaku]({{site.baseurl}}/assets/img/how-to-start.jpg)
 
 ## [iniceritaku](https://www.iniceritaku.ga/){:target="_blank"}
 

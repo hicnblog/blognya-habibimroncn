@@ -2,10 +2,11 @@
 layout: post
 title: "Permainan kecepatan ketik (tesketik)"
 description: "tesketik ialah website yang digunakan untuk mengetes kecepatan ketik anda dalam waktu 1 menit."
+img: tesketik@2x.png
 tags: [web]
 ---
 
-{% include image.html path="documentation/tesketik.PNG" path-detail="documentation/tesketik@2x.PNG" alt="Permainan kecepatan ketik (tesketik)" %}
+![Permainan kecepatan ketik (tesketik)]({{site.baseurl}}/assets/img/tesketik@2x.png)
 
 ## [tesketik](http://www.bloghicn.ga/tesketik/){:target="_blank"}
 

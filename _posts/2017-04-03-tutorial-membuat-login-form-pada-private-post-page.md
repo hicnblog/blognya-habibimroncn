@@ -2,8 +2,11 @@
 layout: post
 title: "Tutorial membuat login form pada private page atau post wordpress"
 description: "Secara default page atau post private tidak akan ditampilkan jika pengguna tidak login."
+img: how-to-start.jpg
 tags: [web, wordpress]
 ---
+
+![Tutorial membuat login form pada private page atau post wordpress]({{site.baseurl}}/assets/img/how-to-start.jpg)
 
 Wordpress secara default akan menampilkan page 404 jika url yang diakses tidak ditemukan. Seperti halnya page atau post dengan status **private**, 
 jika user/pengguna belum login maka page atau post tersebut tidak akan bisa ditampilkan, dan akan mengarah ke page 404. Tetapi jika pengguna/user sudah login maka page atau post tersebut bisa ditampilkan.

@@ -2,10 +2,11 @@
 layout: post
 title: "Save HTML to Doc Type"
 description: "Save HTML to Doc Type ialah website editor yang bisa disimpan dalam bentuk Doc type."
+img: std@2x.PNG
 tags: [web]
 ---
 
-{% include image.html path="documentation/std.PNG" path-detail="documentation/std@2x.PNG" alt="Save HTML to Doc Type" %}
+![Minipedia Reborn]({{site.baseurl}}/assets/img/std@2x.PNG)
 
 ## [saveasdoc](http://www.bloghicn.ga/saveasdoc/){:target="_blank"}
 
