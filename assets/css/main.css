@@ -1143,7 +1143,7 @@ footer .copyright {
   height: 100%;
 }
 
-.page-footer {
+.main-page-footer {
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -1160,12 +1160,12 @@ footer .copyright {
   border-bottom: 1px solid #a0a0a0;
 }
 
-.page-footer .page-share {
+.main-page-footer .page-share {
   margin-bottom: 10px;
   text-align: left;
 }
 
-.page-footer .page-share a {
+.main-page-footer .page-share a {
   display: inline-block;
   text-decoration: none;
   background-color: #fafafa;
@@ -1179,15 +1179,15 @@ footer .copyright {
   transition: background-color .3s;
 }
 
-.page-footer .page-share a:first-child {
+.main-page-footer .page-share a:first-child {
   margin-left: 0;
 }
 
-.page-footer .page-share a:hover {
+.main-page-footer .page-share a:hover {
   background-color: #ecf0f1;
 }
 
-.page-footer .page-tag a {
+.main-page-footer .page-tag a {
   text-decoration: none;
   font-size: 10px;
   padding: 5px 10px;
@@ -1198,7 +1198,7 @@ footer .copyright {
   background-color: #ffffff;
 }
 
-.page-footer .page-tag a:hover {
+.main-page-footer .page-tag a:hover {
   text-decoration: underline;
 }
 
