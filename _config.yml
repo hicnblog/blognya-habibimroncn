@@ -1,14 +1,14 @@
-title: HABIB IMRON CAHYO NUGROHO
+title: Habib Imron Cahyo Nugroho
 description: > # this means to ignore newlines until "baseurl:"
-  Assalamulaikum :). Saya PHP Developer, biasanya saya bermain dengan WordPress, Laravel, PhoneGap, dan Ionic.
+  PHP Developer
 permalink: ':title/'
-baseurl: " " # the subpath of your site, e.g. /blog
+baseurl: "/blognya-habibimroncn" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author Settings
-author: HABIB IMRON CAHYO NUGROHO # add your name
+author: Habib Imron Cahyo Nugroho # add your name
 author-img: habib-imron-cahyo-nugroho.jpg # add your photo
-about-author: Saya PHP Developer, biasanya saya bermain dengan WordPress, Laravel, PhoneGap, dan Ionic. # add description
+about-author: Assalamulaikum :). Saya PHP Developer, biasanya saya bermain dengan WordPress, Laravel, PhoneGap, dan Ionic. # add description
 twitter: Hab_15
 facebook: habibimroncn
 github: habibimroncn
